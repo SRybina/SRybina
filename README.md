@@ -31,5 +31,5 @@ Experienced software developer specializing in artificial intelligence, machine 
 - Эксперт в использовании Aiogram для создания масштабируемых и функциональных ботов
 
 ### 🌐 Социальные сети:
-- Telegram: [svetlankaR_80](https://t.me/svetlankaR_80)
+- Telegram: [svetlanka_R80](https://t.me/svetlanka_R80)
   
