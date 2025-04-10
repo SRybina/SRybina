@@ -32,5 +32,5 @@ Experienced software developer specializing in artificial intelligence, machine 
 - Эксперт в использовании Aiogram для создания масштабируемых и функциональных ботов
 
 ### 🌐 Социальные сети:
-- Telegram: [svetlanka_R80](https://t.me/MindDocX)
+- Telegram: [MindDocX](https://t.me/MindDocX)
   
